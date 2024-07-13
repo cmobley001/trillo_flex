@@ -1,0 +1,14 @@
+{
+  "name": "Trillo",
+  "version": "1.0.0",
+  "description": "Landing page for Trillo",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "Udemy",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "npm:sass@^1.77.6"
+  }
+}
