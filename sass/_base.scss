@@ -17,6 +17,11 @@
   --color-black: #000;
 
   --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+  --linearGradient: linear-gradient(
+    to right bottom,
+    var(--color-primary-light),
+    var(--color-primary-dark)
+  );
 }
 
 * {
